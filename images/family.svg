@@ -1,0 +1,21 @@
+<svg width="720" height="620" viewBox="0 0 720 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#96d160"/>
+      <stop offset="1" stop-color="#4f8f2f"/>
+    </linearGradient>
+  </defs>
+  <rect width="720" height="620" rx="30" fill="url(#bg)"/>
+  <circle cx="570" cy="130" r="100" fill="#c5ea92" opacity="0.42"/>
+  <circle cx="150" cy="90" r="70" fill="#c5ea92" opacity="0.4"/>
+  <rect x="110" y="280" width="500" height="250" rx="20" fill="#c88e54"/>
+  <circle cx="220" cy="248" r="76" fill="#f0ca9e"/>
+  <circle cx="364" cy="232" r="72" fill="#f0ca9e"/>
+  <circle cx="502" cy="248" r="76" fill="#f0ca9e"/>
+  <rect x="145" y="312" width="150" height="195" rx="16" fill="#8b2d61"/>
+  <rect x="304" y="300" width="120" height="208" rx="16" fill="#4e8934"/>
+  <rect x="435" y="312" width="150" height="195" rx="16" fill="#c68429"/>
+  <ellipse cx="220" cy="470" rx="62" ry="22" fill="#ffb21e"/>
+  <ellipse cx="364" cy="476" rx="62" ry="22" fill="#ffb21e"/>
+  <ellipse cx="502" cy="470" rx="62" ry="22" fill="#ffb21e"/>
+</svg>

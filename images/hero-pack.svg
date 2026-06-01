@@ -1,0 +1,32 @@
+<svg width="900" height="540" viewBox="0 0 900 540" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="900" y2="540" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#18491f"/>
+      <stop offset="1" stop-color="#0f2f15"/>
+    </linearGradient>
+    <linearGradient id="mango" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffcb32"/>
+      <stop offset="1" stop-color="#ff8a00"/>
+    </linearGradient>
+    <filter id="shadow" x="0" y="0" width="200%" height="200%">
+      <feDropShadow dx="0" dy="12" stdDeviation="12" flood-color="#000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+  <rect width="900" height="540" rx="24" fill="url(#bg)"/>
+  <circle cx="130" cy="120" r="70" fill="#2a6a2f" opacity="0.7"/>
+  <circle cx="785" cy="80" r="92" fill="#2a6a2f" opacity="0.52"/>
+  <g filter="url(#shadow)">
+    <rect x="210" y="130" width="160" height="320" rx="18" fill="#3f7f2f"/>
+    <rect x="390" y="110" width="160" height="340" rx="18" fill="#8f2eb2"/>
+    <rect x="570" y="130" width="160" height="320" rx="18" fill="#6a4d24"/>
+  </g>
+  <rect x="225" y="150" width="130" height="80" rx="12" fill="#f1e7bb"/>
+  <rect x="405" y="130" width="130" height="80" rx="12" fill="#f6dfbf"/>
+  <rect x="585" y="150" width="130" height="80" rx="12" fill="#f1ddb6"/>
+  <ellipse cx="300" cy="405" rx="62" ry="26" fill="url(#mango)"/>
+  <ellipse cx="480" cy="420" rx="62" ry="26" fill="url(#mango)"/>
+  <ellipse cx="660" cy="405" rx="62" ry="26" fill="url(#mango)"/>
+  <text x="243" y="196" font-size="34" fill="#214e1d" font-family="Georgia">QoriMi</text>
+  <text x="423" y="176" font-size="34" fill="#6b2b86" font-family="Georgia">QoriMi</text>
+  <text x="603" y="196" font-size="34" fill="#5b421f" font-family="Georgia">QoriMi</text>
+</svg>

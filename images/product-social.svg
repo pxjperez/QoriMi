@@ -1,0 +1,13 @@
+<svg width="360" height="280" viewBox="0 0 360 280" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffe0df"/>
+      <stop offset="1" stop-color="#f9b3af"/>
+    </linearGradient>
+  </defs>
+  <rect width="360" height="280" rx="18" fill="url(#bg)"/>
+  <rect x="122" y="40" width="116" height="190" rx="14" fill="#db3530"/>
+  <rect x="132" y="54" width="96" height="58" rx="10" fill="#ffe2be"/>
+  <ellipse cx="180" cy="220" rx="58" ry="22" fill="#ffa024"/>
+  <text x="150" y="92" font-size="24" fill="#9a2220" font-family="Georgia">QoriMi</text>
+</svg>
